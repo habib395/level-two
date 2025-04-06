@@ -6,7 +6,7 @@ export function Welcome() {
   return (
     <main>
      <h2>this is todo app.</h2>
-     <p>this is me.</p>
+     <p>this is me. from level-two.</p>
      <div className="flex item-center justify-center">
      <Contact></Contact>
      </div>
